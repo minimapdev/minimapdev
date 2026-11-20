@@ -2,7 +2,7 @@
 <p align="center"><strong>Game Client Programmer</strong></p>
 <p align="center"><em>오늘도 "한 판 더"가 무한 루프 도는 게임을 만듭니다.</em></p>
 <p align="center">
-  <a href="https://app.notion.com/p/3f1c75a04ed381b5ab44e55c29660416"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-292D32?style=for-the-badge&logo=notion&logoColor=white"></a>
+  <a href="https://quixotic-alyssum-73e.notion.site/3f1c75a04ed381b5ab44e55c29660416"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-292D32?style=for-the-badge&logo=notion&logoColor=white"></a>
   <a href="https://youtube.com/channel/UCSOXKWjUenA6Vcus42suo7A"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-292D32?style=for-the-badge&logo=youtube&logoColor=FF0000"></a>
   <a href="mailto:minimapdev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-292D32?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
